@@ -6,6 +6,8 @@
 str은 알파벳으로 이루어진 문자열입니다.
 
 
-[코드]
+
+
+
 str = input()
 print(str.swapcase())
